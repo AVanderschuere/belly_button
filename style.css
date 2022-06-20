@@ -1,0 +1,12 @@
+body {
+     font-family:'Times New Roman', Times, serif;
+     font-size: 18px;
+     background-color: rgb(17, 55, 126);
+}
+
+.jumbotron {
+     background-image: url("https://images.immediate.co.uk/production/volatile/sites/4/2021/06/GettyImages-171582364-ee6ce7f.jpg?quality=90&resize=940,400");
+     background-size: 100% 100%;
+     text-align: center;
+     color: rgb(91, 7, 124);
+}
